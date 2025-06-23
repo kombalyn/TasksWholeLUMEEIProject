@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77094730350",
+    "project_id": "lumeei-test",
+    "storage_bucket": "lumeei-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77094730350:android:bcf72a37089c0873cb447f",
+        "android_client_info": {
+          "package_name": "com.lumeeikft.lumeei_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WBR4Tz0usXZ-4Yl1ZBXKC898c4Q2eAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
