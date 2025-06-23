@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Melyik folyó volt kulcsszereplője az ókori Egyiptom civilizációjának?",
+    "answers": ["Nílus", "Tigris", "Eufrátesz", "Amazonas"],
+    "correct_index": 0
+  },
+  {
+    "question": "Melyik fáraó híres a fiatalon történt haláláról és sírjának felfedezéséről?",
+    "answers": ["Ramszesz II", "Tutanhamon", "Kleopátra", "Thotmesz III"],
+    "correct_index": 1
+  },
+  {
+    "question": "Mi volt az egyiptomi halottaskönyv célja?",
+    "answers": [
+      "Történelmi események feljegyzése",
+      "A halottak feltámasztása",
+      "Útmutatás a túlvilágra",
+      "Naptárkészítés"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Milyen írást használtak az ókori egyiptomiak hivatalos szövegekhez?",
+    "answers": ["Görög", "Latin", "Hieroglifa", "Szanszkrit"],
+    "correct_index": 2
+  },
+  {
+    "question": "Hogy nevezzük az egyiptomi uralkodót?",
+    "answers": ["Cár", "Király", "Fáraó", "Emír"],
+    "correct_index": 2
+  },
+  {
+    "question": "Melyik építmény tartozik a gízai piramisok közé?",
+    "answers": [
+      "Kheopsz piramisa",
+      "Alexandriai világítótorony",
+      "Karnaki templom",
+      "Luxori oszlopcsarnok"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Mire használták a papiruszt?",
+    "answers": [
+      "Építőanyagként",
+      "Írásra",
+      "Festékként",
+      "Táplálékként"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Mi volt Anubisz szerepe az egyiptomi hitvilágban?",
+    "answers": [
+      "A termékenység istene",
+      "A Nap istene",
+      "A halottak istene",
+      "A háború istene"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Milyen anyagból készült leggyakrabban az egyiptomi templom?",
+    "answers": ["Tégla", "Mészkő", "Fa", "Gránit"],
+    "correct_index": 1
+  },
+  {
+    "question": "Ki volt a napisten az egyiptomi mitológiában?",
+    "answers": ["Ozirisz", "Thot", "Ra", "Széth"],
+    "correct_index": 2
+  }
+]
